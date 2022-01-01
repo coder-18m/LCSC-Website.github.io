@@ -29,17 +29,19 @@ body{
   padding-top: 20px;
   padding-bottom: 20px;
   align-items: center;
+
 }
 .link{
   list-style: none;
   display: inline;
   padding-left: 10px;
 }
+
 .navbar-a{
   padding-right: 13px;
   padding-left: 13px;
-    text-decoration: none;
-  font-family: 'Roboto Mono', monospace;
+  text-decoration: none;
+  font-family: monospace;
   color: black;
   border: 2px solid black;
   box-shadow: 2px 2px gray;
